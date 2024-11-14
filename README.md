@@ -32,7 +32,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=E97627)
+![Power BI](![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=power-bi&logoColor=F2C811)
+)
 
 ---
 
